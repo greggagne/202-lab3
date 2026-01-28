@@ -6,7 +6,7 @@
  */
 
 public class ArraySet implements Set {
-    public ArraySet(int size) {
+    public ArraySet(int capacity) {
     }
 
     public ArraySet() {
